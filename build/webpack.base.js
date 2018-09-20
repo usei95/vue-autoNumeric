@@ -92,6 +92,6 @@ module.exports = {
          *     },
          * },
          */
-        'autonumeric/dist/autoNumeric.min': 'AutoNumeric',
+        'autonumeric/dist/autoNumeric.min': 'autonumeric',
     },
 };
